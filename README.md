@@ -27,8 +27,23 @@ pip install jupyter scikit-learn nltk
 
 ##  Getting Started
 
-1)Clone the repository:
+Clone the repository:
 ```bash
 git clone https://github.com/sayan-iiitian/Movie-Recommendation-System.git
 ```
+
+Navigate to the project directory:
+```bash
+cd Movie-Recommendation-System
+```
+
+Open the Jupyter Notebook:
+```
+jupyter notebook MovieRecommendationSystem.ipynb
+```
+
+Run the notebook cells to see movie recommendations.
+Usage
+
+Follow the instructions in the Jupyter Notebook to input your preferences and get personalized movie recommendations.
 
