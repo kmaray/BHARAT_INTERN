@@ -41,6 +41,11 @@ Open the Jupyter Notebook:
 ```
 jupyter notebook MovieRecommendationSystem.ipynb
 ```
+Run the notebook cells to see movie recommendations.
+Usage
+
+Follow the instructions in the Jupyter Notebook to input your preferences and get personalized movie recommendations.
+
 
 
 # Iris dataset analysis - Classification
@@ -74,8 +79,4 @@ The data set contains 3 classes of 50 instances each, where each class refers to
   
 **Best Model Accuracy:** 100.00
 
-Run the notebook cells to see movie recommendations.
-Usage
-
-Follow the instructions in the Jupyter Notebook to input your preferences and get personalized movie recommendations.
 
