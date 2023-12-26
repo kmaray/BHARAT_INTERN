@@ -23,3 +23,10 @@ You can install these dependencies using the following commands:
 
 ```bash
 pip install jupyter scikit-learn nltk
+
+##  Getting Started
+
+Clone the repository:
+```bash
+git clone https://github.com/sayan-iiitian/Movie-Recommendation-System.git
+
